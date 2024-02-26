@@ -1,0 +1,4 @@
+.idea/
+src/adminpanel/__pycache__/
+venv/
+src/db.sqlite3
